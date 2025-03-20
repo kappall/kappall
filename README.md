@@ -11,6 +11,7 @@ I'm a Computer Science student passionate about software development. I enjoy to
 ### 🚀 Projects
 - **PrestoReserve** – A simple reservation system with a Java Spring Boot backend and React frontend.
 - **Cebola** – A simplicistic macOS virus scanner using known signatures in C.
+- **Chatty** – A multi-threaded chat application (client-server architecture) built in Java for self-learning purposes.
 - **Other private projects** – Working on innovative solutions in mobile and web development.
 
 ### 🔧 Skills & Tools
@@ -23,6 +24,6 @@ I'm a Computer Science student passionate about software development. I enjoy to
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 ### 📫 Connect with Me
-- **LinkedIn:** [karam-el-labadie]([https://www.linkedin.com/in/yourprofile](https://linkedin.com/in/karam-el-labadie))
+- **LinkedIn:** [karam-el-labadie](https://linkedin.com/in/karam-el-labadie)
 
 Let's build something great together!
