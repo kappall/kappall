@@ -8,13 +8,13 @@ I'm a Computer Science student passionate about software development. I enjoy to
 - **Mobile Development:** Flutter (with AWS Amplify and Riverpod, also Firebase)
 - **Operating Systems:** macOS, Linux
 
-### 🚀 Projects
+### Projects
 - **PrestoReserve** – A simple reservation system with a Java Spring Boot backend and React frontend.
 - **Cebola** – A simplicistic macOS virus scanner using known signatures in C.
 - **Chatty** – A multi-threaded chat application (client-server architecture) built in Java for self-learning purposes.
 - **Other private projects** – Working on innovative solutions in mobile and web development.
 
-### 🔧 Skills & Tools
+### Skills & Tools
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -23,7 +23,7 @@ I'm a Computer Science student passionate about software development. I enjoy to
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
-### 📫 Connect with Me
+### Connect with Me
 - **LinkedIn:** [karam-el-labadie](https://linkedin.com/in/karam-el-labadie)
 
 Let's build something great together!
