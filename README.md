@@ -9,7 +9,6 @@ I'm a Computer Science student passionate about software development. I enjoy to
 - **Operating Systems:** macOS, Linux
 
 ### Projects
-- **PrestoReserve** – A simple reservation system with a Java Spring Boot backend and React frontend.
 - **Cebola** – A simplicistic macOS virus scanner using known signatures in C.
 - **Chatty** – A multi-threaded chat application (client-server architecture) built in Java for self-learning purposes.
 -  **Trie Parser** – A generic C++ trie (prefix tree) implementation supporting iterators, path compression, trie union operations, maximum weight leaf search, stream I/O, and a custom container (`bag`). Includes full sanitizer support for safe development.
