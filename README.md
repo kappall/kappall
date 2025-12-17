@@ -1,4 +1,4 @@
-### Hi everyone! 👋
+### Hi everyone!
 
 I'm a Computer Science student passionate about software development. I enjoy topics regarding cybersecurity and competitive progamming, in fact I jump on every opportunity to refine my skills and knowledge, to mention few SWERC 2024 and Cyberchallenge 2025. I specialize in backend and full-stack development, focusing on:
 
@@ -11,9 +11,9 @@ I'm a Computer Science student passionate about software development. I enjoy to
 ### Projects
 - **Cebola** - A simplicistic macOS virus scanner using known signatures in C.
 - **Chatty** - A multi-threaded chat application (client-server architecture) built in Java for self-learning purposes.
--  **Trie Parser** - A generic C++ trie (prefix tree) implementation supporting iterators, path compression, trie union operations, maximum weight leaf search, stream I/O, and a custom container (`bag`). Includes full sanitizer support for safe development.
+- **Trie Parser** - A generic C++ trie (prefix tree) implementation supporting iterators, path compression, trie union operations, maximum weight leaf search, stream I/O, and a custom container (`bag`). Includes full sanitizer support for safe development.
 - **Other private projects** - Working on innovative solutions in mobile and web development.
-- **Graveyard of projects you will never see** - I have a library of 30+ projects, all great ideas, just not so great....
+- **Graveyard of projects you will never see** - I have a library of 30+ projects, all great ideas, just let me cook....
 
 ### Skills & Tools
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
@@ -25,5 +25,6 @@ I'm a Computer Science student passionate about software development. I enjoy to
 
 ### Connect with Me
 - **LinkedIn:** [karam-el-labadie](https://linkedin.com/in/karam-el-labadie)
-
+- **Portfolio:** [https://github.com/kappall](https://github.com/kappall)
+- 
 Let's build something great together!
