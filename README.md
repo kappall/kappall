@@ -26,5 +26,5 @@ I'm a Computer Science student passionate about software development. I enjoy to
 ### Connect with Me
 - **LinkedIn:** [karam-el-labadie](https://linkedin.com/in/karam-el-labadie)
 - **Portfolio:** [https://github.com/kappall](https://github.com/kappall)
-- 
+
 Let's build something great together!
